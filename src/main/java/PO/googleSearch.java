@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class googleSearch {
-
+	
     @FindBy(name="btnK")
     WebElement searchButton;
 
@@ -13,7 +13,6 @@ public class googleSearch {
     WebElement SearchTextBox;
 
     public googleSearch(WebDriver driver){
-       // this.driver=driver;
         PageFactory.initElements(driver, this);
     }
 
