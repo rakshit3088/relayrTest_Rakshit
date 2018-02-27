@@ -9,3 +9,6 @@ Instructions for Running the tests
  - install firefox.
  - perform a maven clean build
  - run the project as a java application.
+
+
+Note: Relayr Test 1 Solution.pdf & Relayr Test 2 Solution.pdf contain the solutions for the tests.
