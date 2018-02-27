@@ -55,7 +55,7 @@ public class tests {
     public void TestVerifyUserIsAbleToClickResultLinks(){
     	
         googleSearch gs = new googleSearch(driver);
-        gs.enterSearchVal("rela33yr");
+        gs.enterSearchVal("relayr");
         gs.clickButton();
 
         googleResults gr = new googleResults(driver);
