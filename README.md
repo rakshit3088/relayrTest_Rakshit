@@ -8,4 +8,4 @@ Instructions for Running the tests
  - Clone the repo
  - install firefox.
  - perform a maven clean build
- - run the project as a java aplication.
+ - run the project as a java application.
